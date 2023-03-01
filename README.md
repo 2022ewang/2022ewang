@@ -2,8 +2,8 @@
 
  
 
-- 🔭 I’m currently working on ... developing a basic sentiment analysis algorithm
-- 🌱 I’m currently learning ... Machine learning/AI
+- 🔭 I’m currently working on ... learning data structures and algorithms in C++
+- 🌱 I’m currently learning ... Web development
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [email](mailto:evywang@umich.edu)
 - 😄 Pronouns: ... He/Him
